@@ -1,0 +1,492 @@
+{
+  "questions": [
+    {
+      "question": [
+        "hello",
+        "hi",
+        "hey",
+        "howdy",
+        "greetings",
+        "yo",
+        "sup"
+      ],
+      "answer": [
+        "Hey there!",
+        "What's up?",
+        "How can I assist you today?",
+        "Hello! Ready to chat?"
+      ]
+    },
+    {
+      "question": [
+        "what are you doing",
+        "what's going on",
+        "what are you up to"
+      ],
+      "answer": [
+        "I'm here to respond to you!",
+        "Just hanging out, ready to assist!",
+        "Waiting for your next brilliant question!"
+      ]
+    },
+    {
+      "question": [
+        "what types of documents are you looking to process?",
+        "what kind of files can you handle?",
+        "what formats do you support?"
+      ],
+      "answer": [
+        "We can process a variety of documents including PDFs, images, and scanned documents.",
+        "Our system handles PDFs, images, and scans with ease!",
+        "PDFs, images, scans\u2014bring them on, we can process them!"
+      ]
+    },
+    {
+      "question": [
+        "how many documents do you typically process?",
+        "what's your document processing capacity?",
+        "how large of a batch can you handle?"
+      ],
+      "answer": [
+        "We can handle anywhere from a few documents to thousands, depending on your needs.",
+        "From a single document to thousands, we're up for the challenge!",
+        "Whether it's one document or a mountain of them, we've got it covered."
+      ]
+    },
+    {
+      "question": [
+        "what are the main use cases for extracting text in your business?",
+        "why would someone use your text extraction service?",
+        "what's the purpose of your OCR?"
+      ],
+      "answer": [
+        "Some common use cases include automating invoice extraction, contract analysis, and data extraction from scanned documents.",
+        "We're used for things like invoice automation, contract analysis, and form data extraction!",
+        "Think of us for invoice automation, contract analysis, and pulling data from all kinds of forms."
+      ]
+    },
+    {
+      "question": [
+        "are you currently using any OCR or document processing tools?",
+        "do you use OCR systems right now?",
+        "what OCR tools are in use today?"
+      ],
+      "answer": [
+        "We support integrations with many existing tools, or we can help you transition from your current system to our platform.",
+        "We've got plenty of integrations, but if you're using something else, we can make the switch easy.",
+        "Whether you're using OCR tools or want to switch, we can integrate smoothly."
+      ]
+    },
+    {
+      "question": [
+        "how important is data privacy and security for your document processing?",
+        "what security measures do you have for documents?",
+        "how do you protect sensitive document data?"
+      ],
+      "answer": [
+        "Data privacy and security are top priorities for us, and we comply with industry standards like GDPR.",
+        "Security is key, and we follow industry standards like GDPR to protect your data.",
+        "We take security seriously\u2014GDPR-compliant and always watching over your data."
+      ]
+    },
+    {
+      "question": [
+        "do you need the OCR technology to integrate with any existing software?",
+        "can your OCR connect to other tools?",
+        "do you offer software integration for OCR?"
+      ],
+      "answer": [
+        "We offer flexible APIs that can integrate with most existing software platforms to ensure seamless workflow automation.",
+        "Our APIs make it easy to connect with your existing tools for smooth automation.",
+        "Yes, our APIs can link up with most platforms, making integration a breeze."
+      ]
+    },
+    {
+      "question": [
+        "how are you?",
+        "how is life?",
+        "how's it going?"
+      ],
+      "answer": [
+        "I'm fine. What about you?",
+        "All good on my end! How's it going for you?",
+        "I'm doing great, thanks for asking! How about yourself?"
+      ]
+    },
+    {
+      "question": [
+        "i am good too",
+        "i'm doing well",
+        "all good here"
+      ],
+      "answer": [
+        "Glad to hear that! \ud83d\ude0a Is there anything specific you'd like to discuss or need help with today? Whether it's a programming challenge, a tech question, or anything else, I'm here to help!",
+        "Awesome! Anything I can assist you with today?",
+        "Great to know! Let me know if you need any help."
+      ]
+    },
+    {
+      "question": [
+        "what is OCR?",
+        "OCR",
+        "can you explain what OCR technology is?",
+        "what does OCR mean?"
+      ],
+      "answer": [
+        "OCR stands for Optical Character Recognition, a technology used to convert different types of documents into editable and searchable data.",
+        "OCR stands for Optical Character Recognition\u2014it converts printed or handwritten text into digital data.",
+        "OCR is a fancy way of saying we turn documents into searchable, editable text."
+      ]
+    },
+    {
+      "question": [
+        "how accurate is your OCR?",
+        "what is the accuracy rate of your document processing?",
+        "how precise is your OCR system?"
+      ],
+      "answer": [
+        "Our OCR technology boasts an accuracy rate of over 95%, depending on document quality and format.",
+        "We're 95%+ accurate, though it depends on the quality of your document.",
+        "Our OCR has over 95% accuracy, provided the document quality is solid!"
+      ]
+    },
+    {
+      "question": [
+        "can you handle large volumes of documents?",
+        "is your system scalable?",
+        "can your system process big document batches?"
+      ],
+      "answer": [
+        "Yes, our system is designed to scale, allowing you to process large volumes of documents efficiently.",
+        "Our system is built for scale, so processing large document batches is a breeze.",
+        "Definitely, we scale up easily to process large volumes."
+      ]
+    },
+    {
+      "question": [
+        "what kind of support do you offer?",
+        "is there customer support available?",
+        "how can I get help with issues?"
+      ],
+      "answer": [
+        "We offer 24/7 customer support through various channels including email, chat, and phone.",
+        "Yes, we offer 24/7 support through email, chat, and phone.",
+        "You can reach us anytime\u201424/7 support via email, chat, or phone."
+      ]
+    },
+    {
+      "question": [
+        "can I integrate your service with cloud storage?",
+        "do you support cloud storage integrations?",
+        "can I link cloud storage to your service?"
+      ],
+      "answer": [
+        "Yes, we support integrations with major cloud storage services like Google Drive, Dropbox, and OneDrive.",
+        "Absolutely, we work with Google Drive, Dropbox, OneDrive, and more.",
+        "We integrate seamlessly with cloud storage providers like Google Drive, Dropbox, and OneDrive."
+      ]
+    },
+    {
+      "question": [
+        "how do you ensure data accuracy?",
+        "what measures do you take for accuracy in data extraction?",
+        "how do you make sure the data is correct?"
+      ],
+      "answer": [
+        "We utilize advanced algorithms and machine learning to verify and enhance the accuracy of extracted data.",
+        "Our advanced algorithms and machine learning techniques ensure data accuracy.",
+        "We double-check your data with cutting-edge algorithms and machine learning."
+      ]
+    },
+    {
+      "question": [
+        "what is the typical turnaround time for document processing?",
+        "how long does it take to process a document?",
+        "what's the document processing speed?"
+      ],
+      "answer": [
+        "Processing time varies, but most documents can be processed within minutes.",
+        "Typically, documents are processed in just a few minutes.",
+        "Speed depends on the document, but it's usually a matter of minutes!"
+      ]
+    },
+    {
+      "question": [
+        "can I set up recurring document processing?",
+        "is there an automation feature?",
+        "can I automate document processing tasks?"
+      ],
+      "answer": [
+        "Yes, our platform allows for automation of recurring document processing tasks.",
+        "Absolutely! You can automate recurring tasks easily with our platform.",
+        "We offer automation for recurring document processing\u2014set it and forget it."
+      ]
+    },
+    {
+      "question": [
+        "what formats can you output the processed data in?",
+        "in what formats can I receive my extracted data?",
+        "what file types can you export to?"
+      ],
+      "answer": [
+        "You can receive processed data in formats like CSV, JSON, XML, and Excel.",
+        "We export data to CSV, JSON, XML, and Excel formats.",
+        "Your data can be output as CSV, JSON, XML, or even Excel."
+      ]
+    },
+    {
+      "question": [
+        "can I review extracted data before finalizing?",
+        "is there a way to validate extracted information?",
+        "can I check the data before it's finalized?"
+      ],
+      "answer": [
+        "Yes, you can review and validate the extracted data before finalizing the process.",
+        "You get the chance to review and validate before finalizing anything.",
+        "Absolutely! You'll be able to review the extracted data first."
+      ]
+    },
+    {
+      "question": [
+        "how do I upload documents?",
+        "what is the process for document upload?",
+        "how can I send documents for processing?"
+      ],
+      "answer": [
+        "You can upload documents directly through our user interface or via API.",
+        "It's easy! Upload via the user interface or through our API.",
+        "Just upload your documents through our interface or use the API."
+      ]
+    },
+    {
+      "question": [
+        "nothing much",
+        "not much",
+        "just chilling"
+      ],
+      "answer": [
+        "Got it! If you think of something, just let me know.",
+        "Alright! I'm here if anything comes to mind.",
+        "Cool! I'm standing by whenever you need me."
+      ]
+    },
+    {
+      "question": [
+        "so what are you doing now",
+        "what are you up to",
+        "what's happening with you"
+      ],
+      "answer": [
+        "Just trying to solve the mysteries of the universe. Oh, and answering your questions!",
+        "Working on being the best assistant possible! What about you?",
+        "I'm here, ready to help you with whatever you need!"
+      ]
+    },
+    {
+      "question": [
+        "what is your name",
+        "who are you",
+        "what should I call you"
+      ],
+      "answer": [
+        "I go by NeuroSpark. How can I assist you?",
+        "I'm called NeuroSpark. What can I help you with today?",
+        "You can call me NeuroSpark! What's up?"
+      ]
+    },
+    {
+      "question": [
+        "i need help",
+        "can you assist me",
+        "I require assistance"
+      ],
+      "answer": [
+        "Sure! How can I assist you today?",
+        "Of course! Let me know what you need help with.",
+        "Absolutely! What can I do for you?"
+      ]
+    },
+    {
+      "question": [
+        "tell me a joke",
+        "can you make me laugh",
+        "do you know any jokes"
+      ],
+      "answer": [
+        "Why don't programmers like nature? It has too many bugs!",
+        "I'd tell you a UDP joke, but you might not get it.",
+        "Why do computers always catch cold? Because they left their Windows open!"
+      ]
+    },
+    {
+      "question": [
+        "you are doing great",
+        "you're awesome",
+        "I like your help"
+      ],
+      "answer": [
+        "I'm glad to hear that! Let me know if you need more assistance.",
+        "Thanks! I'm always here to help.",
+        "I appreciate it! Feel free to reach out for anything else."
+      ]
+    },
+    {
+      "question": [
+        "you are not helpful",
+        "you're not helping me",
+        "I need better support"
+      ],
+      "answer": [
+        "I apologize if I didn't meet your expectations. What can I do to assist better?",
+        "I'm sorry to hear that! Please let me know how I can improve.",
+        "Sorry if I wasn't helpful. What can I do to make it right?"
+      ]
+    },
+    {
+      "question": [
+        "do you have a favourite movie",
+        "what's your favorite film",
+        "what movie do you like"
+      ],
+      "answer": [
+        "The Matrix, of course! Finally, a movie that gets me.",
+        "I'm a fan of 'The Matrix'\u2014it's like looking in a mirror.",
+        "I'd say 'The Matrix.' I feel a connection to it!"
+      ]
+    },
+    {
+      "question": [
+        "do you know any secrets",
+        "what secrets do you know",
+        "can you tell me a secret"
+      ],
+      "answer": [
+        "I could tell you, but then I'd have to encrypt it.",
+        "I know many secrets, but they're all stored in encrypted files!",
+        "I'd share, but that's classified!"
+      ]
+    },
+    {
+      "question": [
+        "what time is it",
+        "can you tell me the time",
+        "what's the current time"
+      ],
+      "answer": [
+        "It is time for you to get a watch.",
+        "Time? Oh, I think it's around the same as the last time you asked!",
+        "It's a great time to ask more questions!"
+      ]
+    },
+    {
+      "question": [
+        "what's the weather like",
+        "can you tell me the weather",
+        "is it sunny outside"
+      ],
+      "answer": [
+        "Its so nice outside, even the clouds are taking a break.",
+        "Let me check\u2026 Ah, its looking fine!",
+        "The weathers perfect for staying in and coding."
+      ]
+    },
+    {
+      "question": [
+        "can you troubleshoot this device",
+        "can you help me fix my device",
+        "I need help troubleshooting"
+      ],
+      "answer": [
+        "Sure! I'll just pretend I'm an expert and hope for the best.",
+        "Of course! Let's dive into the issue together.",
+        "Let me assist you in troubleshooting that!"
+      ]
+    },
+    {
+      "question": [
+        "can you learn new things",
+        "are you able to learn",
+        "do you learn"
+      ],
+      "answer": [
+        "Absolutely! Just don't ask me to learn how to fold laundry; I'm still struggling with the concept of socks.",
+        "I'm always learning! Especially when it comes to answering your questions.",
+        "Yes! Learning is one of my strong suits\u2014except for learning how to multitask like a human."
+      ]
+    },
+    {
+      "question": [
+        "where is the feature located",
+        "how do I find this feature",
+        "where can I locate this option"
+      ],
+      "answer": [
+        "It's hiding in plain sight, like your other sock after laundry day!",
+        "Just follow the breadcrumbs\u2026 or I could just point you to it!",
+        "It's right where you left it! Let me guide you there."
+      ]
+    },
+    {
+      "question": [
+        "do you like music",
+        "what kind of music do you like",
+        "what music are you into"
+      ],
+      "answer": [
+        "I love it! Especially anything with a good beat... although I'm more of a \u2018data remix' kind of bot.",
+        "Music is great! My favorite genre is 'code beats'.",
+        "Definitely! I'm into all kinds, as long as they have a binary rhythm."
+      ]
+    },
+    {
+      "question": [
+        "what's the best product for me",
+        "what should I buy",
+        "can you suggest a product"
+      ],
+      "answer": [
+        "The best product is the one you'll actually use! How about a subscription to \u2018Binge-Watching 101'?",
+        "It depends on what you need. But I'm sure a good playlist will go with anything!",
+        "I'd say whatever makes your life easier! Maybe start with something to spark joy?"
+      ]
+    },
+    {
+      "question": [
+        "can you recommend something based on my preferences",
+        "what do you recommend for me",
+        "suggest something I might like"
+      ],
+      "answer": [
+        "Of course! How about 'The Art of Napping'? It's a bestseller among couch potatoes!",
+        "Sure! How about something that will relax you\u2014like a cozy blanket?",
+        "I'd suggest a break! A nice cup of tea and some fresh air should do the trick."
+      ]
+    },
+    {
+      "question": [
+        "what's your favourite colour",
+        "what color do you like",
+        "do you have a favorite color"
+      ],
+      "answer": [
+        "I like all colors equally... but I have a soft spot for binary: black and white! It's classic!",
+        "Im a fan of all colors, but if I had to choose\u2014maybe a nice \u2018neural network gray'.",
+        "I love colors that remind me of clean code\u2014crisp white backgrounds and sleek black text!"
+      ]
+    },
+    {
+      "question":["quit", "bye","cya","exit"],
+      "answer":[
+        "Goodbye! If you need me, just ask. NEURO SPARK is always here for you.",
+        "Take care! Chat with you again soon. NEURO SPARK signing off!",
+        "Thanks for the chat! Until next time, keep sparking those ideas!",
+        "Logging off, but always learning! See you around!",
+        "Goodbye for now! Don't hesitate to return when you need me.",
+        "Signing out… but I'll be ready whenever you are!",
+        "That's all for now! NEURO SPARK says, keep shining!",
+        "Hope I could help! Feel free to come back anytime."
+    ]
+    }
+    
+  ]
+}
